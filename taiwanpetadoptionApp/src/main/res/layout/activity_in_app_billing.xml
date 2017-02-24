@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.jackpan.TaiwanpetadoptionApp.InAppBillingActivity">
+    <ListView
+        android:id="@+id/buyList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       >
+
+    </ListView>
+
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="buy"-->
+        <!--android:id="@+id/buyButton"-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:onClick="buyClick" />-->
+
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Click"-->
+        <!--android:id="@+id/clickButton"-->
+        <!--android:layout_above="@+id/buyButton"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_marginBottom="83dp"-->
+        <!--android:onClick="buttonClicked"/>-->
+</LinearLayout>

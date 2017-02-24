@@ -1,0 +1,78 @@
+apply plugin: 'com.android.application'
+
+android {
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+    }
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+    useLibrary 'org.apache.http.legacy'
+    defaultConfig {
+        applicationId "com.jackpan.GayPlace"
+        minSdkVersion 15
+        targetSdkVersion 23
+        multiDexEnabled true
+        manifestPlaceholders = [
+                GETUI_APP_ID : "dcHtGgMWtWAVt0q32BdZh6",
+                GETUI_APP_KEY : "3hQEWjPSiB65SGDGjqrHf6",
+                GETUI_APP_SECRET : "4zJOpAsr8EA8H3f0R0Ys99"
+        ]
+        ndk {
+            abiFilters "armeabi", "armeabi-v7a", "x86_64"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    dexOptions {
+        preDexLibraries = false
+        incremental true
+        javaMaxHeapSize "4g"
+    }
+
+}
+repositories {
+    mavenCentral()
+}
+dependencies {
+    //    compile fileTree(dir: 'libs', include: ['*.jar'])
+    //    compile 'com.android.support:support-v4'
+    //    compile files('libs/universal-image-loader-1.9.4.jar')
+    //    compile files('libs/admob-adapter-1.0.0-1505261651-830485e.jar')
+    compile files('libs/glide-3.6.1.jar')
+    //    compile files('libs/libGoogleAnalyticsServices.jar')
+    //    compile files('libs/vpadn-sdk-obf431-82605102-1506291043-d57fd2a.jar')
+    compile files('libs/vpadn-sdk-obf452-50506102-1605051432-f98ce76.jar')
+    compile files('libs/admob-adapter-1.0.0-1505261651-830485e (1).jar')
+    //    compile 'com.google.firebase:firebase-storage:9.0.2'
+    //    compile 'com.google.firebase:firebase-auth:9.0.2'
+    //    compile 'com.google.firebase:firebase-database:9.0.0'
+    compile 'com.facebook.android:audience-network-sdk:4.+'
+    compile 'com.facebook.android:facebook-android-sdk:4.+'
+    compile 'com.google.code.gson:gson:2.3.1'
+    compile 'com.android.support:support-v4:25.0.0'
+    compile 'com.google.android.gms:play-services-analytics:9.8.0'
+    compile 'com.google.android.gms:play-services-maps:9.8.0'
+    compile 'com.google.android.gms:play-services-gcm:9.8.0'
+    compile 'com.android.support:appcompat-v7:25.0.0'
+    compile 'com.adlocus:library:3.5.2@aar'
+    compile 'com.google.android.gms:play-services:9.8.0'
+    compile 'com.google.firebase:firebase-ads:9.0.0'
+    compile 'com.google.firebase:firebase-messaging:9.0.0'
+    compile 'com.google.android.gms:play-services-ads:9.8.0'
+    compile 'com.google.android.gms:play-services-auth:9.8.0'
+    compile 'com.firebase:firebase-client-android:2.3.1'
+    compile 'com.android.support:multidex:1.0.1'
+    compile 'com.google.firebase:firebase-auth:9.8.0'
+    compile files('libs/adbert-sdk-3.0.4n.jar')
+    compile files('libs/GetuiSDK2.9.5.0.jar')
+}
+apply plugin: 'com.google.gms.google-services'

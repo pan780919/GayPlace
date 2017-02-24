@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_623e9be0f4fcc2613e7cfa2691b0d12adc132424/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_3bc99a5b1b524da6c6803fcfe74fe2a190e0d028/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_5f3d3b232410f6c07f96e45e3a082e37bba46cd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.8.0_dbc6f3eab0734242f0d68e54c7cae9a34c65f532/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_c56fb300063037d05bf4fa60c0f13dd4d39815bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_b5dad898a4daf708a98756b2b82721a7a8f9f020/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_255b2fb3026a9e568c1d1525ce74dca8e36058ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_e2ae988096caef6e5b81d331a7dec729505735c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_d0c68c7ef315008debb1c7522686ae6ba235b3ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.8.0_6b62cf6ba61eaae27b64eefd5bf151841dd2968b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_b61b2a2810616dd82c0c25685b1c3472b2c567ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.8.0_f6dd78d4b56f2b6fee67ad394c9a17c74cdb3744/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.8.0_e38e3f4238c6d6d362e2b7531692f9fb8d8bd3a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.19.0_b18d5e09e32fa9d66f85af0510dc748563142bb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.3.1/be29b24233711c419ce935aa0a1b12ebc49d1c9a/firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.3.1_2a2256cefcfc9c644c32a5e6a86294d5eae15419/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.8.0_f30073accb7507774d456ec55d708050cddd9552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_35d45dc361f530239874b063cddbc2c72643d8ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_6baf9d6a41f55d96d81436fa5218fa521963e55d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_bd8d4713051d4b0bfecb511daddd555d9fc7899a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_e40126a06a21df1d6c85404fe05c175afd00bed6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_3b6ae740ba256592e8e6aabe1430cff8c4bc5544/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_fd9269d967474f7d03bec07f0e2f6ab5696372de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/libs/adbert-sdk-3.0.4n.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="110a678557614528f7ff5e2cc1e82a95dfc01fc7">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/2/adbert-sdk-3.0.4n_efa2e07269af9701b5047dd3e863ed2963775afa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_0a093deaaa72507ca79ffdf09f1f5e3994ca6a4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_9737f753f00923219fe794d6dbe22e2aec796463/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_e876944e635c609d1d09da82ffdcef04b0cea2c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/libs/admob-adapter-1.0.0-1505261651-830485e (1).jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d77f6c11b9fc8b69d8008a95b36bc809e55cb92f">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/2/admob-adapter-1.0.0-1505261651-830485e (1)_b500f6c1f202229c1c1497833a9535268330f56a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_67b4f1f5434159552a732a94ccf4694436af89d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.11_d355d4ed4a00596109def735a7c7145a8bf21dab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_4bebc70aab2a0eb3ecabf648f86995b294afeaa7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_56b03996121485592c7699eb532583702561fe4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_c7aa4725f8775179568acbfcbfb4e89466b2f674/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_63c9241d9c1861caf3d1369e926fed927f07d297/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_41cf966a303fd64d40b97ec841773245c2a2ceec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.8.0_371968bc20063e9ffdb99761b64e7df954300032/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_7091ab1fd4a99230adf6c2780d4343efc5a806c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.8.0_b98232b7d82d881c1c0d5267187b52ec9f468bb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/libs/glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/2/glide-3.6.1_d109b23aac008f91b4512207621bebfe9bbef0ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="68650cdfbb81141cf02dbe4b4edca7b5483e931c">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_df890b9faf16d604ff3ddf9d4aa117c9bd62174e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d00e3f3c1d169242dfdf95def181534b33ac6cce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.8.0_d52c5dbe2aa615be52cf7b1feb51830d40371757/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_793c8060d05107293f43884e7148c075e0861fa7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.19.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c33972876f2abe2d914011c6b2cd5e3b5d049c30">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-audience-network-sdk-4.19.0_4ca415415116cff500319ee3d152f8c6be3d404b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.8.0_7e22f257aebf784f92e3b26edf7b6654e896f5de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.3.1_5fe399feeb951e0dc06839e5f3755af27fc8dd45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.8.0_e9c59482002c430cfbd1d30e81ac42aaaca381b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.8.0_a270cb0cc0fed4c9b00c546b14d4231d1f239ffc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_e5e2ebde4187c0603a33e9969dbf343bf66cdb62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.8.0_8de50d840ed0618c8bdb2f3a3dda1cd7553851df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_ce549b870f2b7fc99611ee92ec532c024373f092/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_4324062e81ffece5adab93b1a672c23651df2619/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.8.0_4a4915c3008cd85c39f73417e50afd387c895045/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_16c5935626e6f1929a2435fcafd3255b353694aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.8.0_e5916d006206745e58bb40a7c015a69b70fa6de1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_86201e444a530c16e8c771ad8f306bb819e59cc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="199ff2a9d8db388a455025fc25db63475cede05a">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.adlocus-library-3.5.2_e7de926c1d67b08f389d25a8d5eba843d126ca75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.8.0_475b0460ed43e2c019666420d4416c0be7c17722/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_3657b93370977a95b8f6df6fa77c326ea3fe742d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_0d5953689b737f7d0cca167dba393c9cbcfbd494/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.8.0_11b5caed8b460cf385de4e5c1e7f7d4b1b8a0ded/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0ef835eff8cb47f85db8789a7f8fd144affa8ca8">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6a2c2cf58a95e14def994a7a668bc633d6db8cce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.8.0_217fdba5e55e167ff89965b6f6681de5973f63c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_94149adf84eb5289edc2920d3660ae2053e1374c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_9240c769de9634fff412673b2600a359af302fe4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_9ea0817219226e61c639e569c7b5163402633d15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.8.0_813bc14692e4f75d2620c06c81aa0f51c0e1348f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.8.0_8ca5a04882d5ba90eae985ebd7ffd17dfcaa9043/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_4baf973f1c23628a2ce3e01eb5ea0ed45b44bacc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3f5ddd9e9c49c2b0fbf98f30c3d2607e1596f41f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_206a081ffacc86fd9e8aa90cfd9537789257eb03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.8.0_fa179de782698136dca2f5bfbc930e9c06e0c42b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.8.0_87a8b7fdeea1740c577c7789efb0dd927c8dee79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-25.0.0_e2f8147bf4b7a5fb60a3de9f31cd32ea30d6970c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.8.0_7ad5c6717c5bc6d00cce5e71329201a633f47f9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_d97de5f1b0866238bc1fc442ca5dd9092ca5b2a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.8.0_9e20d360f32936ad4c98ce91be9defb48fd68fb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_43dc8866cb1a3b4dec05b90be514f560134b981a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_e72f686af51dd72c64f5d1ec572f14deb0352d14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_30bd39200410baaa41991573f875149028c09c55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_71e8f1b5e79e0da5291c71c8e4fc48b32e723cec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fa112f9589a72edd6c8458764cd65e80a39e6d8c">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.exoplayer-exoplayer-r2.0.3_a6fa93eaecc5fec1859b76817918ccdbaf795605/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.8.0_8fea60a721e392b1fe3fa804f5f3fc53f2361986/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/libs/vpadn-sdk-obf452-50506102-1605051432-f98ce76.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a746874f5100128f943e60c7f1dade7818927b7b">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/2/vpadn-sdk-obf452-50506102-1605051432-f98ce76_712bccd414cfa446ab75f1cbfc80ea94c665dab9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_a28e078e8e2e8945f19e83d33834185157bd8413/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_89d0bcfa3c6e5c758f5a276695dc5c339c8386ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3af6873746a3217b081d69dc7329870d0e9a424b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_9017f276cd4a048a14a7313cf39d4521df4e2989/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/libs/GetuiSDK2.9.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4a422171b395719bb39b8b30d7b7a9ee9a6173d7">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/2/GetuiSDK2.9.5.0_11d4de93b9105f072bb5a659e60a7a659dd3d50f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_b23bf0e5b69bf27aa8027677de31f3a4f3a73858/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_912da7ca0c5cfac60f1b078ce6395e7b51e36f49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.8.0_f891662203f377d54a8ab7a4c2bd4343d56d1bed/classes.dex" />
+    </item>
+
+</items>

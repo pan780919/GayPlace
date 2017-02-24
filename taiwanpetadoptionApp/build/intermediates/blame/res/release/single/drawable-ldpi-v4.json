@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_controls_rewind.png",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.0.3/res/drawable-ldpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_controls_play.png",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.0.3/res/drawable-ldpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.0.3/res/drawable-ldpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_controls_previous.png",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.0.3/res/drawable-ldpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_controls_pause.png",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.0.3/res/drawable-ldpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_controls_next.png",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.0.3/res/drawable-ldpi-v4/exo_controls_next.png"
+    }
+]

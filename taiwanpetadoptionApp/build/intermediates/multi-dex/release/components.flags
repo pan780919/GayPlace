@@ -1,0 +1,274 @@
+-injars /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/transforms/jarMerging/release/jars/1/1f/combined.jar
+-outjars /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/multi-dex/release/componentClasses.jar
+
+-libraryjars /Users/jackpan/Library/Android/sdk/build-tools/23.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/multi-dex/release/components.flags
+
+
+-keep class android.support.multidex.MultiDexApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.jackpan.TaiwanpetadoptionApp.MainActivity {
+    <init>();
+}
+
+-keep class com.jackpan.TaiwanpetadoptionApp.TwoActivity {
+    <init>();
+}
+
+-keep class com.jackpan.video.VideoMainActivity {
+    <init>();
+}
+
+-keep class com.jackpan.video.VideoTwoActivity {
+    <init>();
+}
+
+-keep class com.jackpan.video.ForIdeaAndShareVideoActivity {
+    <init>();
+}
+
+-keep class com.adlocus.AdActivity {
+    <init>();
+}
+
+-keep class com.adlocus.VideoAdActivity {
+    <init>();
+}
+
+-keep class com.adlocus.push.PushService {
+    <init>();
+}
+
+-keep class com.adlocus.push.PushReceive {
+    <init>();
+}
+
+-keep class com.vpadn.widget.VpadnActivity {
+    <init>();
+}
+
+-keep class com.jackpan.TaiwanpetadoptionApp.HeadpageActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.jackpan.TaiwanpetadoptionApp.SpinnerActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.analytics.AnalyticsReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.analytics.AnalyticsService {
+    <init>();
+}
+
+-keep class com.jackpan.TaiwanpetadoptionApp.InAppBillingActivity {
+    <init>();
+}
+
+-keep class com.jackpan.TaiwanpetadoptionApp.MyFirebaseMessagingService {
+    <init>();
+}
+
+-keep class com.jackpan.TaiwanpetadoptionApp.MyFirebaseInstanceIDService {
+    <init>();
+}
+
+-keep class com.facebook.FacebookContentProvider {
+    <init>();
+}
+
+-keep class com.jackpan.TaiwanpetadoptionApp.FireBaseListActivity {
+    <init>();
+}
+
+-keep class com.jackpan.TaiwanpetadoptionApp.ForIdeaAndShareActivity {
+    <init>();
+}
+
+-keep class com.jackpan.VideoViewActivity {
+    <init>();
+}
+
+-keep class com.jackpan.TaiwanpetadoptionApp.LoginActivity {
+    <init>();
+}
+
+-keep class com.jackpan.TaiwanpetadoptionApp.UserActivity {
+    <init>();
+}
+
+-keep class com.adbert.AdbertActivity {
+    <init>();
+}
+
+-keep class com.adbert.AdbertInterstitialActivity {
+    <init>();
+}
+
+-keep class com.jackpan.TaiwanpetadoptionApp.UserMessgeActivity {
+    <init>();
+}
+
+-keep class com.jackpan.MyPushService {
+    <init>();
+}
+
+-keep class com.jackpan.TaiwanpetadoptionApp.MyIntentService {
+    <init>();
+}
+
+-keep class com.igexin.sdk.PushService {
+    <init>();
+}
+
+-keep class com.igexin.sdk.PushReceiver {
+    <init>();
+}
+
+-keep class com.igexin.sdk.PushActivity {
+    <init>();
+}
+
+-keep class com.igexin.download.DownloadService {
+    <init>();
+}
+
+-keep class com.igexin.download.DownloadReceiver {
+    <init>();
+}
+
+-keep class com.igexin.download.DownloadProvider {
+    <init>();
+}
+
+-keep class com.igexin.sdk.GActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.common.api.GoogleApiActivity {
+    <init>();
+}
+
+-keep class com.facebook.FacebookActivity {
+    <init>();
+}
+
+-keep class com.facebook.CustomTabMainActivity {
+    <init>();
+}
+
+-keep class com.facebook.internal.FacebookInitProvider {
+    <init>();
+}
+
+-keep class com.adlocus.util.MultiProcessPreferences {
+    <init>();
+}
+
+-keep class com.google.android.gms.appinvite.PreviewActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService {
+    <init>();
+}
+
+-keep class com.google.android.gms.cast.framework.media.MediaIntentReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.cast.framework.media.MediaNotificationService {
+    <init>();
+}
+
+-keep class com.google.android.gms.cast.framework.ReconnectionService {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdService {
+    <init>();
+}
+
+-keep class com.google.firebase.provider.FirebaseInitProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep class com.google.firebase.messaging.FirebaseMessagingService {
+    <init>();
+}
+
+-keep class com.google.android.gms.tagmanager.TagManagerService {
+    <init>();
+}
+
+-keep class com.google.android.gms.tagmanager.TagManagerPreviewActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

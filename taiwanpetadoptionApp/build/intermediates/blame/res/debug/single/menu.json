@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/menu/headpage.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/menu/headpage.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/menu/spinner.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/menu/spinner.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/menu/two.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/menu/two.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/menu/menu_in_app_billing.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/menu/menu_in_app_billing.xml"
+    }
+]

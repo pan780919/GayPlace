@@ -1,0 +1,918 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:2:1-293:12
+	package
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:4:5-47
+		INJECTED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:5:5-29
+		INJECTED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:8:5-11:58
+MERGED from [com.android.support:multidex:1.0.1] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [com.facebook.android:audience-network-sdk:4.19.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.19.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.exoplayer:exoplayer:r2.0.3] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.0.3/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.facebook.android:facebook-android-sdk:4.19.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services/9.8.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-config:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-places:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:23:5-42
+MERGED from [com.google.firebase:firebase-crash:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-ads:9.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-ads/9.0.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-core/9.8.0/AndroidManifest.xml:4:5-42
+	tools:overrideLibrary
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:11:9-55
+	android:targetSdkVersion
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:9:9-34
+		INJECTED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:13:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/AndroidManifest.xml:19:5-66
+MERGED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:15:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:16:5-81
+MERGED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:17:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/AndroidManifest.xml:20:5-78
+MERGED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:18:5-76
+MERGED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:18:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:19:5-76
+MERGED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:19:22-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:20:5-81
+MERGED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:21:5-68
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:23:22-68
+uses-permission#com.android.vending.BILLING
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:24:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:25:5-69
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:25:22-66
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:26:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:27:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:28:5-80
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:28:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:30:5-67
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:30:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:31:5-73
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:31:22-71
+application
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:36:5-291:19
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/AndroidManifest.xml:4:5-19
+MERGED from [com.facebook.android:facebook-android-sdk:4.19.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:cardview-v7:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:18:5-55:19
+MERGED from [com.google.android.gms:play-services:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services/9.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-config:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:24:5-19
+MERGED from [com.google.firebase:firebase-crash:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-auth:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-ads:9.0.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-ads/9.0.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-core/9.8.0/AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:40:9-41
+	android:allowBackup
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:38:9-35
+	android:icon
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:39:9-38
+	android:theme
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:41:9-40
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:37:9-68
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:42:9-49:25
+action#android.intent.action.VIEW
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:43:13-65
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:43:21-62
+category#android.intent.category.DEFAULT
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:45:13-72
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:45:23-69
+category#android.intent.category.BROWSABLE
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:46:13-74
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:46:23-71
+data
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:48:13-60
+	android:scheme
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:48:19-57
+activity#com.jackpan.TaiwanpetadoptionApp.MainActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:51:9-56:52
+	android:screenOrientation
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:55:13-45
+	android:hardwareAccelerated
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:54:13-47
+	android:configChanges
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:53:13-59
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:52:13-41
+activity#com.jackpan.TaiwanpetadoptionApp.TwoActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:57:9-62:52
+	android:screenOrientation
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:62:13-49
+	android:label
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:61:13-55
+	android:hardwareAccelerated
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:60:13-47
+	android:configChanges
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:59:13-59
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:58:13-40
+activity#com.jackpan.video.VideoMainActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:63:9-68:52
+	android:screenOrientation
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:67:13-45
+	android:hardwareAccelerated
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:66:13-47
+	android:configChanges
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:65:13-59
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:64:13-63
+activity#com.jackpan.video.VideoTwoActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:69:9-74:52
+	android:screenOrientation
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:74:13-49
+	android:label
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:73:13-55
+	android:hardwareAccelerated
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:72:13-47
+	android:configChanges
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:71:13-59
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:70:13-62
+activity#com.jackpan.video.ForIdeaAndShareVideoActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:75:9-80:52
+	android:screenOrientation
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:80:13-49
+	android:label
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:79:13-55
+	android:hardwareAccelerated
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:78:13-47
+	android:configChanges
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:77:13-59
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:76:13-74
+activity#com.adlocus.AdActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:82:9-89:20
+MERGED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:24:9-29:20
+	android:parentActivityName
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:84:13-55
+	android:excludeFromRecents
+		ADDED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:27:13-44
+	android:theme
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:85:13-54
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:83:13-50
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:86:13-88:81
+	android:value
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:88:17-78
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:87:17-63
+activity#com.adlocus.VideoAdActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:90:9-93:50
+MERGED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:30:9-35:20
+	android:hardwareAccelerated
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:93:13-47
+	android:launchMode
+		ADDED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:34:13-44
+	android:configChanges
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:92:13-122
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:91:13-55
+service#com.adlocus.push.PushService
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:95:9-97:42
+MERGED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:37:9-40:19
+	android:process
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:97:13-39
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:96:13-56
+receiver#com.adlocus.push.PushReceive
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:99:9-111:20
+MERGED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:42:9-54:20
+	android:enabled
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:101:13-35
+	android:process
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:102:13-39
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:100:13-56
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.DEFAULT
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:103:13-107:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:104:17-79
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:104:25-76
+intent-filter#com.adlocus.action.RECEIVE
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:108:13-110:29
+action#com.adlocus.action.RECEIVE
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:109:17-69
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:109:25-66
+activity#com.vpadn.widget.VpadnActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:113:9-117:64
+	android:hardwareAccelerated
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:116:13-47
+	android:configChanges
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:115:13-133
+	android:theme
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:117:13-61
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:114:13-58
+activity#com.jackpan.TaiwanpetadoptionApp.HeadpageActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:118:9-123:52
+	android:screenOrientation
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:123:13-49
+	android:label
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:121:13-60
+	android:launchMode
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:122:13-48
+	android:configChanges
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:120:13-59
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:119:13-45
+meta-data#com.google.android.gms.version
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:125:9-127:69
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:127:13-66
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:126:13-58
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:129:9-132:64
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:131:13-122
+	android:theme
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:132:13-61
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:130:13-65
+activity#com.jackpan.TaiwanpetadoptionApp.SpinnerActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:133:9-135:62
+	android:label
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:135:13-59
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:134:13-44
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:137:9-143:20
+	android:enabled
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:139:13-35
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:138:13-78
+intent-filter#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:140:13-142:29
+action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:141:17-94
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:141:25-91
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:145:9-148:40
+	android:enabled
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:147:13-35
+	android:exported
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:148:13-37
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:146:13-77
+activity#com.jackpan.TaiwanpetadoptionApp.InAppBillingActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:150:9-153:51
+	android:label
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:152:13-66
+	android:launchMode
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:153:13-48
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:151:13-49
+service#com.jackpan.TaiwanpetadoptionApp.MyFirebaseMessagingService
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:155:9-159:19
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:155:18-60
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:156:13-158:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:157:17-78
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:157:25-75
+service#com.jackpan.TaiwanpetadoptionApp.MyFirebaseInstanceIDService
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:160:9-164:19
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:160:18-61
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:161:13-163:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:162:17-80
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:162:25-77
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:166:9-168:55
+	android:value
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:168:13-52
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:167:13-58
+provider#com.facebook.FacebookContentProvider
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:170:9-173:39
+	android:authorities
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:172:13-90
+	android:exported
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:173:13-36
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:171:13-64
+activity#com.jackpan.TaiwanpetadoptionApp.FireBaseListActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:175:9-177:69
+	android:label
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:177:13-66
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:176:13-49
+activity#com.jackpan.TaiwanpetadoptionApp.ForIdeaAndShareActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:178:9-181:45
+	android:configChanges
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:180:13-59
+	android:theme
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:181:13-42
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:179:13-52
+activity#com.jackpan.VideoViewActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:182:9-185:45
+	android:label
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:184:13-45
+	android:theme
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:185:13-42
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:183:13-57
+activity#com.jackpan.TaiwanpetadoptionApp.LoginActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:186:9-197:20
+	android:screenOrientation
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:191:13-49
+	android:label
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:190:13-45
+	android:hardwareAccelerated
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:189:13-47
+	android:configChanges
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:188:13-59
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:187:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:192:13-196:29
+action#android.intent.action.MAIN
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:193:17-69
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:193:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:195:17-77
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:195:27-74
+activity#com.jackpan.TaiwanpetadoptionApp.UserActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:198:9-200:59
+	android:label
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:200:13-56
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:199:13-41
+activity#com.adbert.AdbertActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:201:9-204:84
+	android:configChanges
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:203:13-74
+	android:theme
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:204:13-72
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:202:13-53
+activity#com.adbert.AdbertInterstitialActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:205:9-208:95
+	android:configChanges
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:207:13-74
+	android:theme
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:208:13-83
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:206:13-65
+activity#com.jackpan.TaiwanpetadoptionApp.UserMessgeActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:209:9-211:75
+	android:label
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:211:13-63
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:210:13-47
+service#com.jackpan.MyPushService
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:212:9-217:19
+	android:process
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:216:13-43
+	android:label
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:215:13-40
+	android:exported
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:214:13-36
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:213:13-53
+service#com.jackpan.TaiwanpetadoptionApp.MyIntentService
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:218:9-51
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:218:18-49
+meta-data#PUSH_APPID
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:222:9-224:54
+	android:value
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:224:13-51
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:223:13-38
+meta-data#PUSH_APPKEY
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:225:9-227:54
+	android:value
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:227:13-51
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:226:13-39
+meta-data#PUSH_APPSECRET
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:228:9-230:54
+	android:value
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:230:13-51
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:229:13-42
+service#com.igexin.sdk.PushService
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:233:9-241:19
+	android:process
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:237:13-43
+	android:label
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:236:13-47
+	android:exported
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:235:13-36
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:234:13-54
+intent-filter#com.igexin.sdk.action.service.message
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:238:13-240:29
+action#com.igexin.sdk.action.service.message
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:239:17-79
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:239:25-77
+receiver#com.igexin.sdk.PushReceiver
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:243:9-254:20
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:243:19-61
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED+android.intent.action.MEDIA_MOUNTED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE+com.igexin.sdk.action.refreshls
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:244:13-253:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:246:17-79
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:246:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:247:17-77
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:247:25-74
+action#com.igexin.sdk.action.refreshls
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:248:17-74
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:248:25-71
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:250:17-78
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:250:25-75
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:251:17-87
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:251:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:252:17-90
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:252:25-87
+activity#com.igexin.sdk.PushActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:256:9-263:20
+	android:process
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:260:13-43
+	android:excludeFromRecents
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:258:13-46
+	android:exported
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:259:13-37
+	android:theme
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:262:13-72
+	android:taskAffinity
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:261:13-67
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:257:13-55
+service#com.igexin.download.DownloadService
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:265:9-267:46
+	android:process
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:267:13-43
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:266:13-63
+receiver#com.igexin.download.DownloadReceiver
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:269:9-273:20
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:269:19-70
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:270:13-272:29
+provider#com.igexin.download.DownloadProvider
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:275:9-279:46
+	android:authorities
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:278:13-61
+		INJECTED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml
+	android:process
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:279:13-43
+	android:exported
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:277:13-36
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:276:13-64
+activity#com.igexin.sdk.GActivity
+ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:281:9-287:74
+	android:process
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:285:13-43
+	android:excludeFromRecents
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:283:13-46
+	android:exported
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:284:13-36
+	android:theme
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:287:13-72
+	android:taskAffinity
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:286:13-67
+	android:name
+		ADDED from /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/AndroidManifest.xml:282:13-52
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:19:19-85
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.19.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.19.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.19.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.19.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.19.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.19.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.19.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.19.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.19.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.19.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/AndroidManifest.xml:45:13-70
+provider#com.adlocus.util.MultiProcessPreferences
+ADDED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:19:9-22:40
+	android:authorities
+		ADDED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:21:13-67
+	android:exported
+		ADDED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [com.adlocus:library:3.5.2] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/AndroidManifest.xml:20:13-68
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/AndroidManifest.xml:22:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/AndroidManifest.xml:7:18-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:22:5-81
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/AndroidManifest.xml:6:79-124
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:21:52-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/AndroidManifest.xml:32:16-87
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/AndroidManifest.xml:23:18-87
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/AndroidManifest.xml:25:19-93

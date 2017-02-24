@@ -1,0 +1,282 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From AdLocusLib_3_3_0:
+* .DS_Store
+* AdLocusLib_3_3_0.iml
+* build.gradle
+* build\
+* build\generated\
+* build\generated\source\
+* build\generated\source\buildConfig\
+* build\generated\source\buildConfig\debug\
+* build\generated\source\buildConfig\debug\com\
+* build\generated\source\buildConfig\debug\com\adlocus\
+* build\generated\source\buildConfig\debug\com\adlocus\AdLocusLib\
+* build\generated\source\buildConfig\debug\com\adlocus\AdLocusLib\BuildConfig.java
+* build\generated\source\buildConfig\test\
+* build\generated\source\buildConfig\test\debug\
+* build\generated\source\buildConfig\test\debug\com\
+* build\generated\source\buildConfig\test\debug\com\adlocus\
+* build\generated\source\buildConfig\test\debug\com\adlocus\AdLocusLib\
+* build\generated\source\buildConfig\test\debug\com\adlocus\AdLocusLib\test\
+* build\generated\source\buildConfig\test\debug\com\adlocus\AdLocusLib\test\BuildConfig.java
+* build\generated\source\r\
+* build\generated\source\r\debug\
+* build\generated\source\r\debug\com\
+* build\generated\source\r\debug\com\adlocus\
+* build\generated\source\r\debug\com\adlocus\AdLocusLib\
+* build\generated\source\r\debug\com\adlocus\AdLocusLib\R.java
+* build\generated\source\r\test\
+* build\generated\source\r\test\debug\
+* build\generated\source\r\test\debug\com\
+* build\generated\source\r\test\debug\com\adlocus\
+* build\generated\source\r\test\debug\com\adlocus\AdLocusLib\
+* build\generated\source\r\test\debug\com\adlocus\AdLocusLib\R.java
+* build\generated\source\r\test\debug\com\adlocus\AdLocusLib\test\
+* build\generated\source\r\test\debug\com\adlocus\AdLocusLib\test\R.java
+* build\intermediates\
+* build\intermediates\bundles\
+* build\intermediates\bundles\debug\
+* build\intermediates\bundles\debug\AndroidManifest.xml
+* build\intermediates\bundles\debug\R.txt
+* build\intermediates\bundles\debug\classes.jar
+* build\intermediates\bundles\debug\res\
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_0_1.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_0_2.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_0_3.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_0_4.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_0_5.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_0_6.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_0_7.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_1_1.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_1_2.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_1_3.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_1_4.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_1_5.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_2_1.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_2_2.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_3_1.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_3_2.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_3_3.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_3_4.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_3_5.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_3_6.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_3_7.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_4_1.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_4_2.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_4_3.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_4_4.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_4_5.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_5_1.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_5_2.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_5_3.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_5_4.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_6_1.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_6_2.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_6_3.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_6_4.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_6_5.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_7_1.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_7_2.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_7_3.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_7_4.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_7_5.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_8_1.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_9_1.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_9_2.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_9_3.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_9_4.png
+* build\intermediates\bundles\debug\res\drawable-xhdpi-v4\al_icon_9_5.png
+* build\intermediates\bundles\debug\res\layout\
+* build\intermediates\bundles\debug\res\layout\prome_layout.xml
+* build\intermediates\bundles\debug\res\values\
+* build\intermediates\bundles\debug\res\values\values.xml
+* build\intermediates\classes\
+* build\intermediates\classes\debug\
+* build\intermediates\classes\debug\com\
+* build\intermediates\classes\debug\com\adlocus\
+* build\intermediates\classes\debug\com\adlocus\AdLocusLib\
+* build\intermediates\classes\debug\com\adlocus\AdLocusLib\BuildConfig.class
+* build\intermediates\classes\debug\com\adlocus\AdLocusLib\R$attr.class
+* build\intermediates\classes\debug\com\adlocus\AdLocusLib\R$drawable.class
+* build\intermediates\classes\debug\com\adlocus\AdLocusLib\R$id.class
+* build\intermediates\classes\debug\com\adlocus\AdLocusLib\R$layout.class
+* build\intermediates\classes\debug\com\adlocus\AdLocusLib\R$style.class
+* build\intermediates\classes\debug\com\adlocus\AdLocusLib\R.class
+* build\intermediates\incremental\
+* build\intermediates\incremental\aidl\
+* build\intermediates\incremental\aidl\debug\
+* build\intermediates\incremental\aidl\debug\dependency.store
+* build\intermediates\incremental\aidl\test\
+* build\intermediates\incremental\aidl\test\debug\
+* build\intermediates\incremental\aidl\test\debug\dependency.store
+* build\intermediates\incremental\mergeAssets\
+* build\intermediates\incremental\mergeAssets\debug\
+* build\intermediates\incremental\mergeAssets\debug\merger.xml
+* build\intermediates\incremental\mergeAssets\test\
+* build\intermediates\incremental\mergeAssets\test\debug\
+* build\intermediates\incremental\mergeAssets\test\debug\merger.xml
+* build\intermediates\incremental\mergeResources\
+* build\intermediates\incremental\mergeResources\test\
+* build\intermediates\incremental\mergeResources\test\debug\
+* build\intermediates\incremental\mergeResources\test\debug\merger.xml
+* build\intermediates\incremental\packageResources\
+* build\intermediates\incremental\packageResources\debug\
+* build\intermediates\incremental\packageResources\debug\merger.xml
+* build\intermediates\manifests\
+* build\intermediates\manifests\test\
+* build\intermediates\manifests\test\debug\
+* build\intermediates\manifests\test\debug\AndroidManifest.xml
+* build\intermediates\manifests\tmp\
+* build\intermediates\manifests\tmp\manifestMerger4854142391476191371.xml
+* build\intermediates\manifests\tmp\manifestMerger929790579214097971.xml
+* build\intermediates\res\
+* build\intermediates\res\resources-debug-test.ap_
+* build\intermediates\res\test\
+* build\intermediates\res\test\debug\
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_0_1.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_0_2.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_0_3.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_0_4.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_0_5.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_0_6.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_0_7.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_1_1.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_1_2.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_1_3.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_1_4.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_1_5.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_2_1.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_2_2.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_3_1.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_3_2.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_3_3.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_3_4.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_3_5.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_3_6.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_3_7.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_4_1.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_4_2.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_4_3.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_4_4.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_4_5.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_5_1.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_5_2.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_5_3.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_5_4.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_6_1.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_6_2.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_6_3.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_6_4.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_6_5.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_7_1.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_7_2.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_7_3.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_7_4.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_7_5.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_8_1.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_9_1.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_9_2.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_9_3.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_9_4.png
+* build\intermediates\res\test\debug\drawable-xhdpi-v4\al_icon_9_5.png
+* build\intermediates\res\test\debug\layout\
+* build\intermediates\res\test\debug\layout\prome_layout.xml
+* build\intermediates\res\test\debug\values\
+* build\intermediates\res\test\debug\values\values.xml
+* build\intermediates\symbols\
+* build\intermediates\symbols\test\
+* build\intermediates\symbols\test\debug\
+* build\intermediates\symbols\test\debug\R.txt
+* build\outputs\
+* build\outputs\aar\
+* build\outputs\aar\AdLocusLib_3_3_0-debug.aar
+* build\tmp\
+* build\tmp\packageDebugJar\
+* build\tmp\packageDebugJar\MANIFEST.MF
+From TaiwanpetadoptionApp:
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+gson-2.3.1.jar => com.google.code.gson:gson:2.3.1
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+google-play-services_lib => [com.google.android.gms:play-services:+]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In AdLocusLib_3_3_0:
+* AndroidManifest.xml => adLocusLib_3_3_0\src\main\AndroidManifest.xml
+* assets\ => adLocusLib_3_3_0\src\main\assets
+* res\ => adLocusLib_3_3_0\src\main\res\
+* src\ => adLocusLib_3_3_0\src\main\java
+In TaiwanpetadoptionApp:
+* AndroidManifest.xml => taiwanpetadoptionApp\src\main\AndroidManifest.xml
+* assets\ => taiwanpetadoptionApp\src\main\assets
+* libs\AdLocus_3_3_7_20150224_153201.jar => taiwanpetadoptionApp\libs\AdLocus_3_3_7_20150224_153201.jar
+* libs\admob-adapter-1.0.0-1505261651-830485e.jar => taiwanpetadoptionApp\libs\admob-adapter-1.0.0-1505261651-830485e.jar
+* libs\glide-3.6.1.jar => taiwanpetadoptionApp\libs\glide-3.6.1.jar
+* libs\libGoogleAnalyticsServices.jar => taiwanpetadoptionApp\libs\libGoogleAnalyticsServices.jar
+* libs\vpadn-sdk-obf431-82605102-1506291043-d57fd2a.jar => taiwanpetadoptionApp\libs\vpadn-sdk-obf431-82605102-1506291043-d57fd2a.jar
+* lint.xml => taiwanpetadoptionApp\lint.xml
+* res\ => taiwanpetadoptionApp\src\main\res\
+* src\ => taiwanpetadoptionApp\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/release/raw/keep.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/raw/keep.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/release/raw/gtm_analytics",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/res/raw/gtm_analytics"
+    }
+]

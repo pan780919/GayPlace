@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/activity_main_listview.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_main_listview.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/exo_simple_player_view.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.0.3/res/layout/exo_simple_player_view.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/activity_in_app_billing.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_in_app_billing.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/activity_user_messge.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_user_messge.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/activity_two.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_two.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/activity_spinner.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_spinner.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/getui_notification.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/getui_notification.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/mylayout.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/mylayout.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/bv_content.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/layout/bv_content.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/activity_for_idea_and_share_video.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_for_idea_and_share_video.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/activity_user.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_user.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/activity_for_idea_and_share.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_for_idea_and_share.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/prome_layout.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/layout/prome_layout.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/activity_video_view.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_video_view.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/bv_basic.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/layout/bv_basic.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/activity_main_video.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_main_video.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/exo_playback_control_view.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.0.3/res/layout/exo_playback_control_view.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/activity_two_video.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_two_video.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/myspinnerlayout.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/myspinnerlayout.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/mylayout_video.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/mylayout_video.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/layout_loading_dialog.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/layout_loading_dialog.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/myptdaylayout.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/myptdaylayout.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/recyclerview_item.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/recyclerview_item.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/mr_volume_control.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/activity_fire_base_list.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_fire_base_list.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/activity_headpage.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_headpage.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/activity_main_recycleview.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_main_recycleview.xml"
+    },
+    {
+        "merged": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/layout/place_autocomplete_item_powered_by_google.xml"
+    }
+]

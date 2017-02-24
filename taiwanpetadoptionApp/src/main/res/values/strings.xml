@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">583698071813390</string>
+    <string name="app_name">同志分享天堂</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">贊助</string>
+    <string name="title_activity_two">同志分享天堂</string>
+    <string name="title_activity_headpage">同志分享天堂</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7019441527375550/1880466629</string>
+    <string name="Network_status">網路狀態</string>
+    <string name="no_network">目前無網路連線</string>
+    <string name="setting">設定</string>
+    <string name="cancel">取消</string>
+    <string name="ok">確定</string>
+    <string name="Network_in">網路連線中!!!"</string>
+    <string name="waitting">請稍後.....</string>
+    <string name="title_activity_spinner">SpinnerActivity</string>
+    <string name="admob_unit_id">ca-app-pub-7019441527375550/4887903024</string>
+    <string name="title_activity_in_app_billing">贊助開發者</string>
+    <string name="my_license_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl52KvbtkT+zi2HpRL7v1iJw3bRoqrNyz8QPzGXaXdtZe2loA+Ab9T7hcdvXvtgwChpouqvUS3MEl8zPH5lgctC6zzM3JGNGrvfJ0OyYvHPhPdBcx+uaESduqpXAuR2nptCZK5GhedclqQzqAnqqikcLPbe83NpothiqXI8olTcWkxBtDi1xEENY3wJWSP+MmFulhG9Cw1vjY3GEEOGdw17eUrut24f/nLshlUXShMiWKw43GWh0HJB2oVQ2LmqbCaoCAXWLr3DBpEYTJXx6JwqIcA+EwbRZWlH70XDImRXBcQG9mtrN2cSrT/LiwEQY7QVOU7e+67lgy1KBANSn+ZQIDAQAB</string>
+    <string name="title_activity_fire_base_list">FireBaseListActivity</string>
+    <string name="title_activity_video_view">VideoViewActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_user">會員中心</string>
+    <string name="title_activity_user_messge">留言板</string>
+</resources>
